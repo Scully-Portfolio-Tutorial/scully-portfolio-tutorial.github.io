@@ -1,13 +1,12 @@
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
-
 import { PortfolioRoutingModule } from './portfolio-routing.module';
-import { PortfolioComponent } from './portfolio.component';
+import { HomeComponent } from './home/home.component';
 
 
 @NgModule({
   declarations: [
-    PortfolioComponent
+    HomeComponent
   ],
   imports: [
     CommonModule,
