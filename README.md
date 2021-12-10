@@ -1,7 +1,7 @@
 # Portfolio with Angular 11 and Scully
 1. Install its dependencies:
 ```
-npm i
+npm ci
 ```
 
 2. Build the app:
